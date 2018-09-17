@@ -1,0 +1,1 @@
+function Abc(){var n=10;return n++}function Index(){}function Index2(){var n=0;return n++}
